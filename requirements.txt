@@ -40,5 +40,5 @@ apscheduler
 pyshorteners
 pyromod
 colorama
-aiohttp==3.8.2 
+
 
