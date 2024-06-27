@@ -41,4 +41,4 @@ pyshorteners
 pyromod
 colorama
 aiohttp==3.8.2 
-yar1==1.8.1 
+
